@@ -5,7 +5,8 @@ Here are few of my personal works and school HomeWork to see!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS    38 mins         ████████████████░░░░░░░░░   63.73 %
+HTML   22 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
 ```
 
 <!--END_SECTION:waka-->
