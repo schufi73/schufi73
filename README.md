@@ -7,9 +7,4 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 
 <!--START_SECTION:waka-->
 
-```txt
-CSS    38 mins         ████████████████░░░░░░░░░   63.73 %
-HTML   22 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
-```
-
 <!--END_SECTION:waka-->
