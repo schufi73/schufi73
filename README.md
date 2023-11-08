@@ -8,9 +8,9 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          11 hrs 5 mins   ███████████████▒░░░░░░░░░   61.64 %
-HTML         6 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   36.71 %
-JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+CSS          10 hrs 27 mins  ███████████████▒░░░░░░░░░   61.51 %
+HTML         6 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   36.75 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
