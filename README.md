@@ -8,11 +8,11 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-CSS              5 hrs 14 mins   ██████████████████▓░░░░░░   74.60 %
-HTML             1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CSS              3 hrs 43 mins   █████████████████░░░░░░░░   68.43 %
+HTML             1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
