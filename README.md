@@ -8,9 +8,9 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-CSS              3 hrs 18 mins   ███████████████▒░░░░░░░░░   61.97 %
-HTML             2 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.97 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+CSS              4 hrs 54 mins   █████████████████░░░░░░░░   67.59 %
+HTML             2 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.36 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
