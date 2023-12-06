@@ -8,9 +8,9 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-Racket     2 hrs 13 mins   ███████████████████████▓░   94.50 %
-Java       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Racket     3 hrs 15 mins   ████████████████████████░   96.17 %
+Java       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
