@@ -8,7 +8,11 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#               39 mins         ████████████████████████░   95.99 %
+Solution File    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
