@@ -8,11 +8,11 @@ If you have any suggestion on how can I improve my code, just hit me up :D
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 hr 39 mins    ████████████████████████░   96.47 %
-Solution File    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Csproj           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C#               1 hr 53 mins    ████████████████████████▒   96.88 %
+Solution File    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Csproj           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
