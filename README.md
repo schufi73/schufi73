@@ -1,5 +1,5 @@
 ### 👋 Hey, I'm Noah!
-I'm a 22-year-old Computer Science enthusiast. Coding's my jam — I love piecing together solutions and venturing into the latest tech. On this page, you'll get a peek into what I'm building and learning. Keen to join in? Drop me a message and let's level up together. 😄 
+I'm a 22-year-old Computer Science enthusiast. Coding's my jam — I love piecing together solutions and venturing into the latest tech. On this page, you'll get a peek into what I'm building and learning. Keen to help? Drop me a message :D 
 Find me on Discord: @schufi73
 
 ### 🚀 About JarCloud
