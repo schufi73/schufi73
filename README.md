@@ -1,5 +1,6 @@
 ### 👋 Hey, I'm Noah!
-I'm a 22-year-old Computer Science enthusiast. Coding's my jam — I love piecing together solutions and venturing into the latest tech. On this page, you'll get a peek into what I'm building and learning. Keen to join in? Drop me a message and let's level up together. 😄 Find me on Discord: @schufi73
+I'm a 22-year-old Computer Science enthusiast. Coding's my jam — I love piecing together solutions and venturing into the latest tech. On this page, you'll get a peek into what I'm building and learning. Keen to join in? Drop me a message and let's level up together. 😄 
+Find me on Discord: @schufi73
 
 ### 🚀 About JarCloud
 **JarCloud** is a creative force in Minecraft server and plugin development, boasting unique game modes that redefine play. As a team, we're committed to delivering cutting-edge tools and collaborative opportunities for server enhancement and plugin creation. It's not just a platform but a community where ideas flourish and technical skills advance.
