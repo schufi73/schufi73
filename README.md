@@ -18,6 +18,8 @@ Your thoughts and contributions fuel the evolution of JarCloud. Got feedback or 
 ### 🤝 Let's Connect!
 Thank you for stopping by. Your presence here is the beginning of an incredible collaboration. Let's make the Minecraft world a little more extraordinary, together.
 
+
+### ⚓ Programming Infomations :D!
 <!--START_SECTION:waka-->
 
 ```txt
