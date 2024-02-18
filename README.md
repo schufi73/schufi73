@@ -1,5 +1,3 @@
-# Welcome to JarCloud! 🌥️
-
 ### 👨‍💻 About Me
 Hey there! 🎉 I'm Noah, a 22-year-old on an exciting journey through the world of Computer Science. My passion lies in coding, learning, and creating innovative solutions to complex problems. This GitHub is a little window into my world, featuring both my personal projects and academic adventures. I'm all about sharing knowledge, growing together, and exploring the endless possibilities technology offers. Got an idea or feedback on my work? Let's chat! 🚨**Hit me up on Discord: @schufi73**🚨
 
