@@ -13,7 +13,7 @@ Hey there! 🎉 I'm Noah, a 22-year-old on an exciting journey through the world
 - **Learn and Grow**: Access a wealth of resources to sharpen your skills and expand your knowledge base.
 
 #### 💡 Feedback and Contributions
-Your thoughts and contributions fuel the evolution of JarCloud. Got feedback or want to contribute? Fantastic! Reach out through our [Discord community]("https://discord.gg/7KwBKgyw") or contribute directly via GitHub. Every idea, big or small, is a step towards something groundbreaking.[GitHub](https://github.com)
+Your thoughts and contributions fuel the evolution of JarCloud. Got feedback or want to contribute? Fantastic! Reach out through our [Discord Comunity](https://discord.gg/7KwBKgyw) or contribute directly via GitHub. Every idea, big or small, is a step towards something groundbreaking.
 
 ### 🤝 Let's Connect!
 Thank you for stopping by. Your presence here is the beginning of an incredible collaboration. Let's make the Minecraft world a little more extraordinary, together.
