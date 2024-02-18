@@ -38,6 +38,9 @@ jobs:
         run: |
           sed -i '/<!--START_SECTION:waka-->/, /<!--END_SECTION:waka-->/c\<!--START_SECTION:waka-->\\n\!\[\]\(metrics.plugin.wakatime.svg\)\n<!--END_SECTION:waka-->' README.md
         shell: bash
+        
+      - name: List files in the directory
+        run: ls -la
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
