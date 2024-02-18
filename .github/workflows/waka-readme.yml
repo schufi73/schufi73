@@ -36,8 +36,9 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!--START_SECTION:waka-->/, /<!--END_SECTION:waka-->/c\<!--START_SECTION:waka-->\\n\!\[\]\(metrics.plugin.wakatime.svg\)\n<!--END_SECTION:waka-->' README.md
+          sed -i '/<!--START_SECTION:waka-->/, /<!--END_SECTION:waka-->/c\<!--START_SECTION:waka-->\n\!\[\]\(metrics.plugin.wakatime.svg\)\n<!--END_SECTION:waka-->' README.md
         shell: bash
+
         
       - name: List files in the directory
         run: ls -la
