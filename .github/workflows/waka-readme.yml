@@ -1,18 +1,46 @@
-name: Waka Readme
+name: Enhanced WakaTime Stats
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *' # Runs at 12 AM UTC
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: WakaTime Stats Update
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: True
+          SHOW_PROJECTS: True
+          SHOW_LANGUAGES: True
+          SHOW_EDITORS: True
+          SHOW_TIMEZONE: 'UTC-0'
+
+      - name: Generate Stats Graphics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ''
+          plugin_wakatime: 'yes'
+          plugin_wakatime_sections: 'time, projects, languages, editors'
+          plugin_wakatime_duration: 'last_7_days'
+
+      - name: Update README
+        run: |
+          sed -i '/<!--START_SECTION:waka-->/, /<!--END_SECTION:waka-->/c\<!--START_SECTION:waka-->\\n\!\[\]\(metrics.plugin.wakatime.svg\)\n<!--END_SECTION:waka-->' README.md
+        shell: bash
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update WakaTime statistics"
+          file_pattern: README.md metrics.plugin.wakatime.svg
