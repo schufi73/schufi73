@@ -18,5 +18,11 @@ Thank you for stopping by. Your presence here is the beginning of an incredible 
 
 
 ### ⚓ Programming Infomations :D!
-<!--START_SECTION:waka-->\n![](metrics.plugin.wakatime.svg)
+<!--START_SECTION:waka-->
+
+```txt
+C#               14 mins         █████████████████████████   99.80 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
