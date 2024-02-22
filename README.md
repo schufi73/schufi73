@@ -22,8 +22,9 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 min           █████████████████████████   99.94 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java             59 mins         ████████████████████████▒   97.77 %
+C#               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
