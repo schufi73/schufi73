@@ -20,4 +20,11 @@ Your journey here marks the start of a potential collaboration.
 
 ### ⚓ Programming Infomations :D!
 <!--START_SECTION:waka-->
+
+```txt
+C#               34 mins         ██████████████████████░░░   87.58 %
+XML              4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+```
+
 <!--END_SECTION:waka-->
