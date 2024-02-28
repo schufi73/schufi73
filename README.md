@@ -20,9 +20,4 @@ Your journey here marks the start of a potential collaboration.
 
 ### ⚓ Programming Infomations :D!
 <!--START_SECTION:waka-->
-
-```txt
-Java   59 mins         █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
