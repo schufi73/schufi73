@@ -13,7 +13,7 @@ Find me on Discord: @schufi73
 - **Resource Hub**: Enhance your knowledge with our comprehensive learning materials.
 
 #### 💡 Engage with JarCloud
-Your input and contributions are the lifeblood of JarCloud's innovation. Join our [Discord Community]([https://discord.gg/7KwBKgyw](https://discord.gg/crVnjZGVpx)) or contribute on GitHub to help us forge new paths in Minecraft server development.
+Your input and contributions are the lifeblood of JarCloud's innovation. Join our [Discord Community](https://discord.gg/crVnjZGVpx) or contribute on GitHub to help us forge new paths in Minecraft server development.
 
 ### 🤝 Let's Connect!
 Your journey here marks the start of a potential collaboration.
