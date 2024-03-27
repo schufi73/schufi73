@@ -22,11 +22,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             5 hrs 54 mins   █████████████▒░░░░░░░░░░░   53.10 %
-Markdown         2 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-HTML             1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-TOML             41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown         2 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.29 %
+Java             2 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
+HTML             1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+TOML             41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+JSON             30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
