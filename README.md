@@ -22,9 +22,7 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             5 hrs 43 mins   █████████████████████████   99.98 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   11 hrs 2 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
