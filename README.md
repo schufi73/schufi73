@@ -22,7 +22,10 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             2 hrs 1 min     ████████████████████████▒   97.88 %
+Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
