@@ -22,7 +22,7 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
