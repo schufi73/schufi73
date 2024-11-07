@@ -14,11 +14,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              13 hrs 8 mins   ████████████████████████▒   97.30 %
-SQL               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-protobuf          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-CLASS             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java              9 hrs 28 mins   ████████████████████████░   96.12 %
+FTL               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+SQL               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Protocol Buffer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
