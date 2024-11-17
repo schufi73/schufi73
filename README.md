@@ -14,11 +14,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 37 mins   ████████████████████▓░░░░   82.06 %
-C                 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-C++               34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-XML               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-ObjectiveC        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Java              5 hrs 35 mins   ██████████████████▓░░░░░░   74.19 %
+C                 1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+C++               37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+XML               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+CMake             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
