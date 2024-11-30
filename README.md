@@ -10,7 +10,7 @@ Find me on Discord: @schufi73
 ### 🤝 Let's Connect!
 Your journey here marks the start of a potential collaboration.
 
-### ⚓ Programming Infomations :D!
+### ⚓ Programming Stats :D!
 <!--START_SECTION:waka-->
 
 ```txt
