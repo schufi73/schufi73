@@ -14,11 +14,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 4 mins    ███████████████████████▒░   93.15 %
-Markdown          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Protocol Buffer   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Properties        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Java              2 hrs 3 mins    ████████████████████▒░░░░   80.73 %
+Markdown          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Groovy            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Gradle            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Shell Script      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
