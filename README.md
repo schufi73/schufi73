@@ -14,11 +14,7 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         10 mins         ██████████░░░░░░░░░░░░░░░   40.44 %
-Groovy           9 mins          █████████▒░░░░░░░░░░░░░░░   37.52 %
-Gradle           2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Shell Script     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
