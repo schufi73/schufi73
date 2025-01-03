@@ -14,7 +14,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           6 mins          ████████████░░░░░░░░░░░░░   48.39 %
+Text             2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Java             1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+YAML             1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+GitIgnore file   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
