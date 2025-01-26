@@ -14,11 +14,9 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 41 mins   ████████████████████████▓   98.80 %
-Shell Script      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java       0 secs          ████████████████████████▒   97.74 %
+SQL        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+protobuf   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
