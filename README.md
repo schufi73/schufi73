@@ -14,11 +14,11 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             9 hrs 26 mins   █████████████████████▓░░░   87.28 %
-Kotlin           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-XML              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-SQL              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Java             1 hr 34 mins    ████████████████▓░░░░░░░░   67.28 %
+Kotlin           31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+Markdown         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
