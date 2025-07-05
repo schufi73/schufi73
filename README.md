@@ -14,11 +14,7 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Protocol Buffer   8 mins          ████████████████▒░░░░░░░░   65.82 %
-protobuf          4 mins          ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
