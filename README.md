@@ -14,11 +14,10 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.28 %
-Java       14 mins         ████████░░░░░░░░░░░░░░░░░   32.45 %
-Groovy     8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-TOML       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Gradle     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java       14 mins         ████████████████████▓░░░░   82.52 %
+Kotlin     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
