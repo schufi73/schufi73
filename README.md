@@ -14,10 +14,7 @@ Your journey here marks the start of a potential collaboration.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       14 mins         ████████████████████▓░░░░   82.52 %
-Kotlin     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
