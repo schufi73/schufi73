@@ -9,7 +9,7 @@ Find me on Discord: @schufi73
 
 ### 🤝 Let's Connect!
 Your journey here marks the start of a potential collaboration.
-More active on GitLab then here ;(
+More active on GitLab then on here ;(
 
 ### ⚓ Programming Stats :D!
 <!--START_SECTION:waka-->
