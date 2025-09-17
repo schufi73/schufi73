@@ -15,7 +15,9 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java       1 hr 22 mins    ███████████████████████░░   91.80 %
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+SQL        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
