@@ -15,7 +15,8 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   14 mins         ██████████████████████▓░░   90.92 %
+Text   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
 ```
 
 <!--END_SECTION:waka-->
