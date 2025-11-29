@@ -15,9 +15,9 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 46 mins    ████████████████████████▒   97.84 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Kotlin     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Java       7 hrs 21 mins   ████████████████████████▓   98.92 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
