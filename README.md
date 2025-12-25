@@ -15,10 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 secs          ██████████████▓░░░░░░░░░░   58.57 %
-JSON         0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-YAML         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
