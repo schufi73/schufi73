@@ -15,7 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            6 mins          ███████████████▓░░░░░░░░░   63.18 %
+Java              2 mins          ███████░░░░░░░░░░░░░░░░░░   27.46 %
+Java Properties   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+SQL               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
