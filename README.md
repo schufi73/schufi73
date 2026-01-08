@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 mins          ███████████████▓░░░░░░░░░   63.18 %
-Java              2 mins          ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Java Properties   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-SQL               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML              23 mins         █████████▒░░░░░░░░░░░░░░░   37.50 %
+Java              19 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
+SQL               8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Kotlin            7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Java Properties   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
