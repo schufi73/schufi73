@@ -15,11 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
-Java              23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-SQL               18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-Text              14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-YAML              10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
