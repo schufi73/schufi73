@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Java           6 mins          ██████████████████░░░░░░░   72.36 %
-Markdown       1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-protobuf       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-SQL            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Properties     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java              1 hr 12 mins    ████████████████████████░   95.51 %
+Markdown          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+protobuf          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
