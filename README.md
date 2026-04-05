@@ -15,7 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 12 mins          ████████▒░░░░░░░░░░░░░░░░   33.02 %
+Java              1 hr 12 mins          ████████▒░░░░░░░░░░░░░░░░   33.03 %
 Markdown          50 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
 Other             31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
 TypeScript        26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
