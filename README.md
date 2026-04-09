@@ -16,7 +16,7 @@ More active on GitLab then on here ;(
 
 ```txt
 Other             5 hrs                 █████████░░░░░░░░░░░░░░░░   36.41 %
-Markdown          4 hrs 12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Markdown          4 hrs 12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.53 %
 Java              2 hrs 18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
 TypeScript        1 hr 21 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
 JavaScript        22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
