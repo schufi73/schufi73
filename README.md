@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Other             8 hrs 55 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
-Markdown          6 hrs 30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.77 %
-TypeScript        3 hrs 33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-Java              56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Groovy            32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Markdown          4 hrs 19 mins         ██████████░░░░░░░░░░░░░░░   40.12 %
+Other             4 hrs 16 mins         ██████████░░░░░░░░░░░░░░░   39.75 %
+TypeScript        1 hr 17 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Java              25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSON              8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
