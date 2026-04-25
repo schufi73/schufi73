@@ -15,11 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 5 mins           ████████████████░░░░░░░░░   63.77 %
-TypeScript   24 mins               ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-YAML         6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Groovy       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Java         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
