@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          8 hrs 28 mins         █████████████████████░░░░   84.38 %
-Python            20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Apache Config     14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-CSS               12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON              11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Markdown          5 hrs 51 mins         ████████████████████░░░░░   79.39 %
+Python            20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Apache Config     14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+CSS               12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JSON              11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
