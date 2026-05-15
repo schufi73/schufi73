@@ -15,11 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          9 hrs 22 mins         ████████████████████░░░░░   80.44 %
-Bash              48 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Python            40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-PHP               15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Apache Config     14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
