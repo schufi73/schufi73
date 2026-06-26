@@ -15,10 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 mins                ████████████████████████▓   98.99 %
-Java              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-protobuf          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Protocol Buffer   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
