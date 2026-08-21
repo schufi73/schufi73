@@ -15,7 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         18 hrs 14 mins        ██████████▓░░░░░░░░░░░░░░   42.25 %
+Python           5 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Swift            4 hrs 40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Image (svg)      3 hrs 43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+HTML             3 hrs 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
 ```
 
 <!--END_SECTION:waka-->
