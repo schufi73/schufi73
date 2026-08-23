@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         16 hrs 20 mins        ███████████░░░░░░░░░░░░░░   44.17 %
-Swift            4 hrs 40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Image (svg)      3 hrs 43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Python           3 hrs 34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-PowerShell       2 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown         15 hrs                ███████████░░░░░░░░░░░░░░   44.05 %
+Swift            4 hrs 40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Image (svg)      3 hrs 43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Python           2 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+PowerShell       2 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
