@@ -15,11 +15,11 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         8 hrs 41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-JavaScript   7 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-Python       4 hrs 39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Markdown     4 hrs 21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Swift        2 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JavaScript   7 hrs 3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+HTML         7 hrs 2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+Python       4 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Markdown     3 hrs 36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+Swift        2 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka-->
