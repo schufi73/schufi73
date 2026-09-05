@@ -15,11 +15,7 @@ More active on GitLab then on here ;(
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 43 mins          █████████░░░░░░░░░░░░░░░░   35.80 %
-TypeScript   1 hr 5 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-JavaScript   52 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-JSON         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Markdown     17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
