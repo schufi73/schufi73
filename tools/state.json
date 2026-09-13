@@ -1,0 +1,105 @@
+{
+  "changed": "2026-08-27",
+  "numbers": {
+    "ai_coding_seconds": 922900,
+    "coding_days": 428,
+    "daily_average_seconds": 9052,
+    "editors": [
+      [
+        "IntelliJ IDEA",
+        2791513
+      ],
+      [
+        "Claude Code",
+        728456
+      ],
+      [
+        "WebStorm",
+        216453
+      ],
+      [
+        "VS Code",
+        80197
+      ],
+      [
+        "CLion",
+        27595
+      ],
+      [
+        "DataGrip",
+        15418
+      ],
+      [
+        "Rider",
+        14377
+      ],
+      [
+        "Unknown Editor",
+        192
+      ]
+    ],
+    "language_count": 67,
+    "languages": [
+      [
+        "Java",
+        2426011
+      ],
+      [
+        "Markdown",
+        610568
+      ],
+      [
+        "HTML",
+        105912
+      ],
+      [
+        "Other",
+        90411
+      ],
+      [
+        "CSS",
+        87815
+      ],
+      [
+        "SQL",
+        86773
+      ],
+      [
+        "Kotlin",
+        72738
+      ],
+      [
+        "TypeScript",
+        57595
+      ],
+      [
+        "Protocol Buffer",
+        42351
+      ],
+      [
+        "JavaScript",
+        37274
+      ],
+      [
+        "protobuf",
+        33388
+      ],
+      [
+        "JSON",
+        25579
+      ]
+    ],
+    "operating_systems": [
+      [
+        "Linux",
+        2100789
+      ],
+      [
+        "Windows",
+        1773412
+      ]
+    ],
+    "since": "2023-10-23",
+    "total_seconds": 3874201
+  }
+}

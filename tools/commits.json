@@ -1,0 +1,33 @@
+{
+  "as_of": "2026-09-13",
+  "busiest_hour": 22,
+  "clock": "author's local time",
+  "commits_floor": 5500,
+  "per_hour_permille": [
+    52,
+    34,
+    13,
+    8,
+    8,
+    3,
+    0,
+    1,
+    3,
+    20,
+    43,
+    50,
+    41,
+    84,
+    81,
+    70,
+    80,
+    47,
+    25,
+    30,
+    49,
+    90,
+    97,
+    71
+  ],
+  "window_days": 365
+}

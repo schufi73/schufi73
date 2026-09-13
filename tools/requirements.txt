@@ -1,0 +1,10 @@
+# The plot (draw.py, sheet.py, lettering.py, wakatime.py, plot.py) is standard-library Python 3.12.
+# The one package is the source of the vendored glyphs in hershey.json, read by vendor_hershey.py;
+# CI installs it to check that the vendored copy still matches this exact release.
+#
+#   pip install --require-hashes -r tools/requirements.txt
+#
+# Hershey-Fonts 2.1.0 by apshu, MIT licence: see LICENSE-Hershey-Fonts.txt.
+Hershey-Fonts==2.1.0 \
+    --hash=sha256:e53ef56bdef231f10f0576a6570f49fcc8442e45115028bc52a7ade15d824581 \
+    --hash=sha256:ebdb0550f9cf78fed2a4bba71b971f5ce5f98ce630da9da9eaa4079b10e8b671

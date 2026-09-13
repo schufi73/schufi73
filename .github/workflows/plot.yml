@@ -1,0 +1,91 @@
+# Re-plots the drawing sheets in assets/ from my public WakaTime all-time stats and
+# tools/commits.json. No secret: the all_time endpoint is public for this profile.
+#
+# Bad data never reaches a sheet. tools/wakatime.py changes tools/state.json only when WakaTime
+# answers status ok with languages (it retries while the stats are pending_update) and the numbers
+# pass its guards: breakdowns that add up to no more than the total, a total that neither grows by
+# more than 24 h a day nor drops by more than 10 %. Otherwise it prints a warning, exits 0 and the
+# sheets are plotted from the last good numbers, which gives the same bytes and so no commit. tools/plot.py refuses to write assets/ unless two runs are
+# byte-identical, every SVG parses, every file is inside its budget and the layout self-test passes.
+name: Plot sheets
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tools/**"
+      - "!tools/state.json"
+      - ".github/workflows/plot.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: plot-sheets
+  cancel-in-progress: false
+
+jobs:
+  plot:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+
+      - name: Install the pinned glyph source
+        run: python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements.txt
+
+      - name: Check the vendored glyphs still match it
+        run: |
+          python tools/vendor_hershey.py
+          git diff --exit-code -- tools/hershey.json
+
+      - name: Read WakaTime all-time stats
+        id: waka
+        run: python tools/wakatime.py --github-output "$GITHUB_OUTPUT"
+
+      - name: Plot, validate and check budgets
+        run: python tools/plot.py
+
+      - name: Commit if a sheet changed
+        env:
+          NUMBERS_CHANGED: ${{ steps.waka.outputs.changed }}
+        run: |
+          if [ -z "$(git status --porcelain -- assets tools/state.json)" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          if [ "$NUMBERS_CHANGED" = "true" ]; then
+            msg="Re-plot sheets: WakaTime numbers of $(python -c 'import json; print(json.load(open("tools/state.json"))["changed"])')"
+          else
+            msg="Re-plot sheets from ${GITHUB_SHA::7}"
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets tools/state.json
+          git commit -m "$msg"
+          git push || { git pull --rebase origin main && git push; }
+
+      # GitHub switches a public repository's scheduled workflows off after 60 days without
+      # activity, and this job commits only when a number moves. One empty commit after 50 quiet
+      # days keeps the schedule on, so the sheets pick up again when WakaTime does.
+      - name: Keep the daily schedule alive
+        if: github.event_name == 'schedule'
+        run: |
+          last=$(git log -1 --format=%ct)
+          if [ $(( $(date +%s) - last )) -gt $(( 50 * 86400 )) ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m "Keep the daily plot scheduled (no new sheet in 50 days)"
+            git push || { git pull --rebase origin main && git push; }
+          fi
