@@ -36,5 +36,3 @@ Minecraft and taking things apart taught me to code. Networks and security came 
 GitHub shows few contributions because almost everything I write lives in private repositories, many of them on GitLab: 5,500+ commits in the last 12 months (Sep 2026).
 
 Scrivimi pure in italiano; Deutsch geht auch.
-
-<sub>Both sheets are plotted by [`tools/plot.py`](https://github.com/schufi73/schufi73/blob/main/tools/plot.py) from my public WakaTime stats and a count of my own commits. Hershey single-stroke lettering from 1967, no widgets. Disegnato a Locarno.</sub>
