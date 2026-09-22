@@ -1,9 +1,9 @@
 {
-  "changed": "2026-09-21",
+  "changed": "2026-09-22",
   "numbers": {
-    "ai_coding_seconds": 1109441,
-    "coding_days": 435,
-    "daily_average_seconds": 9335,
+    "ai_coding_seconds": 1113696,
+    "coding_days": 436,
+    "daily_average_seconds": 9323,
     "editors": [
       [
         "IntelliJ IDEA",
@@ -11,7 +11,7 @@
       ],
       [
         "Claude Code",
-        914997
+        919252
       ],
       [
         "WebStorm",
@@ -50,7 +50,7 @@
       ],
       [
         "Other",
-        188714
+        192969
       ],
       [
         "HTML",
@@ -92,7 +92,7 @@
     "operating_systems": [
       [
         "Linux",
-        2287331
+        2291586
       ],
       [
         "Windows",
@@ -100,6 +100,6 @@
       ]
     ],
     "since": "2023-10-23",
-    "total_seconds": 4060742
+    "total_seconds": 4064997
   }
 }
